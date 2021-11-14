@@ -2,7 +2,12 @@
 Analysis of abortions in Finland 2010-19.
 
 # Project overview
-This project analyses trends in abortion statistics for Finand for the period 2010-19. Overall, the number of abortion has trended downwards for this period from 11.0 abortions per 1000 reproductive age females in 2010 to 9.3 in 2019. The majority of this decrease occured in the age groups -19 years and 20-24 years.
+This project analyses trends in abortion statistics for Finand for the period 2010-19. 
+
+Overall, the number of abortion has trended downwards for this period from 11.0 abortions per 1000 reproductive age females in 2010 to 9.3 in 2019. The majority of this decrease occured in the age groups -19 years and 20-24 years due to a decrease in abortions for social reasons and for females aged under 17 years.
+
+![Image: Total abortions by year and reason](https://github.com/JacintaKnight/Finland-2010-19-Abortion-statistics/blob/main/Abortions_Age%26Reason.jpg)
+![Image: Total abortions by age group over time](https://github.com/JacintaKnight/Finland-2010-19-Abortion-statistics/blob/main/Abortions_age_over_time.jpg)
 
 # Built with
 Power BI
